@@ -29,7 +29,7 @@ print(encrypted)   # Mjqqt Btwqi
 decrypted = decrypt(encrypted, shift)
 print(decrypted)   # Hello World
 
----
+```
 
 ## 🚀 Future Improvements
 - Add number and punctuation support
