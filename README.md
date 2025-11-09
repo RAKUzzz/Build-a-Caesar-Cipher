@@ -28,3 +28,14 @@ print(encrypted)   # Mjqqt Btwqi
 
 decrypted = decrypt(encrypted, shift)
 print(decrypted)   # Hello World
+
+---
+
+## 🚀 Future Improvements
+- Add number and punctuation support
+- Build a simple GUI version using Tkinter
+- Add command-line interface (CLI) support with argparse
+
+## ✨ Author
+ **RAKUzzz**
+This project is part of my Python learning journey toward becoming a Software Engineer.
