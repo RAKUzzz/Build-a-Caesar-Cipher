@@ -37,5 +37,5 @@ print(decrypted)   # Hello World
 - Add command-line interface (CLI) support with argparse
 
 ## ✨ Author
- **RAKUzzz**
+ **RAKUzzz**.
  This project is part of my Python learning journey toward becoming a Software Engineer.
